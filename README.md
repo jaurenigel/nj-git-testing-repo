@@ -31,6 +31,6 @@ nj-git
 
 ```
 
-## Feel free to clone nj-git / contribute to make it better
+## Feel free to clone nj-git / contribute & make it better
 
 Here is the link https://github.com/jaurenigel/nj-git
