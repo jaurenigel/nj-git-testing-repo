@@ -2,7 +2,7 @@
 
 # What does it do?
 
-I am kinda lazy, I want something that can create a remote and local without running:
+I am kinda lazy, I want a tool that can create git repo on both remote and local without running:
 
 ```
 git init
@@ -33,4 +33,4 @@ nj-git
 
 ## Feel free to clone nj-git / contribute to make it better
 
-Here is the link https:github.com/nj-git
+Here is the link https://github.com/jaurenigel/nj-git
